@@ -1,0 +1,9 @@
+django>=5.0
+djangorestframework
+requests
+pandas
+shapely
+sqlalchemy<2.0
+sqlalchemy-mate<1.5.0
+uszipcode
+geopy
